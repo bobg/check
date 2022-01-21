@@ -1,4 +1,4 @@
-module gopkg.in/check.v1
+module github.com/go-check/check
 
 go 1.11
 
